@@ -1,0 +1,14 @@
+D:\Project\C#\Web\MediatRSample\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Project\C#\Web\MediatRSample\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Project\C#\Web\MediatRSample\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Project\C#\Web\MediatRSample\Persistence\bin\Debug\net5.0\Application.dll
+D:\Project\C#\Web\MediatRSample\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Project\C#\Web\MediatRSample\Persistence\bin\Debug\net5.0\Application.pdb
+D:\Project\C#\Web\MediatRSample\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Project\C#\Web\MediatRSample\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+D:\Project\C#\Web\MediatRSample\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Project\C#\Web\MediatRSample\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Project\C#\Web\MediatRSample\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Project\C#\Web\MediatRSample\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\Project\C#\Web\MediatRSample\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Project\C#\Web\MediatRSample\Persistence\obj\Debug\net5.0\Persistence.pdb
