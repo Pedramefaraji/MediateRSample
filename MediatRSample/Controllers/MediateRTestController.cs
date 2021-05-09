@@ -17,6 +17,10 @@ namespace MediatRSample.Controllers
         [HttpPost]
         public async Task<ActionResult<int>> RegisterStudent(RegisterStudent student)
         {
+            if (!ModelState.IsValid)
+            {
+
+            }
             return await Mediator.Send(student);
         }
         [HttpGet]

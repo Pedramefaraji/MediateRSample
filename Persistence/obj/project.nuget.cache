@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RXelbJ5qEb9hQQkQPlH+apmphapA6CfEzLhuHxSfaOj4MnCmovxJhIbuEQRe9okqKaLJAsn8E86LErPbl5LDYw==",
+  "dgSpecHash": "aQt1b/SWkLKlASFeyej/MjglhZi/Cu4LKBgu0oIhmqRlpWwlm42Ra62Nk8N0ELDMavQhdEL2QxhNJFpf72+XWQ==",
   "success": true,
   "projectFilePath": "D:\\Project\\C#\\Web\\MediatRSample\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\PedrameFaraji\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\PedrameFaraji\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\PedrameFaraji\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\PedrameFaraji\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.1.0\\fluentvalidation.aspnetcore.10.1.0.nupkg.sha512",
     "C:\\Users\\PedrameFaraji\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
     "C:\\Users\\PedrameFaraji\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\PedrameFaraji\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
