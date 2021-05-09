@@ -52,3 +52,10 @@ D:\Project\C#\Web\MediatRSample\MediatRSample\obj\Debug\net5.0\MediatRSample.pdb
 D:\Project\C#\Web\MediatRSample\MediatRSample\obj\Debug\net5.0\MediatRSample.genruntimeconfig.cache
 D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\Persistence.dll
 D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\Persistence.pdb
+D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\Dapper.dll
+D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\C#\Web\MediatRSample\MediatRSample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

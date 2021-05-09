@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using Application;
 using Microsoft.AspNetCore.Builder;
@@ -27,8 +28,11 @@ namespace MediatRSample
         {
             services.AddControllersWithViews();
             services.AddSwaggerGen();
-            services.AddApplication();
+            //services.AddApplication(typeof(Startup));
+            services.AddApplication(typeof(Startup));
             services.AddInfrastructure();
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

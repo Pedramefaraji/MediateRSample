@@ -9,10 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Student\DTOs\" />
-    <Folder Include="Features\Student\MappingProfiles\" />
     <Folder Include="Features\Student\Validators\" />
-    <Folder Include="Features\Student\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
